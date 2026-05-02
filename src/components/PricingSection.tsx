@@ -116,7 +116,7 @@ export default function PricingSection({ onBuyNow }: PricingSectionProps) {
             >
               {/* Featured badge */}
               {plan.badge && (
-                <div className= backdrop-blur-xl border border-white/10 bg-white/5"absolute -top-4 left-1/2 -translate-x-1/2 z-10 text-center">
+                <div className="backdrop-blur-xl border border-white/10 bg-white/5 absolute -top-4 left-1/2 -translate-x-1/2e-x-1/2 z-10 text-center">
                   <div
                     className="font-orbitron font-black text-xs text-white px-4 py-1.5 rounded-full tracking-widest flex items-center gap-1.5 text-center"
                     style={{
